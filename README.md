@@ -6,6 +6,8 @@ Team:
   <li>Alena Tsvetkova</li>
 </ul>
 
+</br>
+
 <p align="center">
    <img src="./main_files/SoQ_Derivatives_Vol.png" alt="Tensorboard. Model 1" width="500">
 </p>
